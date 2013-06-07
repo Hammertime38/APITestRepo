@@ -1,6 +1,4 @@
 APITestRepo
 ===========
 
-This is only for testing github API
-
-Test
+This probably wont work.
